@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+}
+.text{
+    margin-top: 20px;
+    width: 250px;
+    height: 40px;
+}
+.btn{
+    height: 40px;
+    width: 80px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+.dlt{
+    height: 40px;
+    width: 80px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+.change{
+    height: 40px;
+    width: 80px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+}
+.list{
+    margin-top: 20px;
+}
